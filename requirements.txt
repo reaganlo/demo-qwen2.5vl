@@ -1,0 +1,7 @@
+transformers>=4.49
+openvino==2025.1.0
+optimum[openvino]==1.25.3
+optimum-intel==1.23.0
+torchvision==0.20.1
+qwen-vl-utils --extra-index-url https://download.pytorch.org/whl/cpu
+gradio
